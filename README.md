@@ -1,6 +1,6 @@
 # tugas.pert.7
 
-##profil
+#profil
 | Variable       |    DATA DIRI         |
 | ---------------| ----------------     |
 | Nama           | Lutpiah Ainus Shiddik |                                     
@@ -8,9 +8,9 @@
 | Kelas          | TI.23.A.5            |
 | Mata Kuliah    |Basis data            |
 
-##Soal Latihan Praktikum
+#Soal Latihan Praktikum
 
-##Data Model Mapping
+#Data Model Mapping
 
 ```python
 
