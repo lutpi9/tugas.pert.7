@@ -1,5 +1,5 @@
-##
-profil
+## profil
+
 | Variable       |    DATA DIRI         |
 | ---------------| ----------------     |
 | Nama           | Lutpiah Ainu Shiddik |                                     
@@ -7,11 +7,9 @@ profil
 | Kelas          | TI.23.A.5            |
 | Mata Kuliah    |Basis data            |
 
-##
-Soal Latihan Praktikum
+## Soal Latihan Praktikum
 
-##
-Data Model Mapping
+## Data Model Mapping
 
 ```
 Mahasiswa (nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
@@ -25,12 +23,13 @@ KRSMahasiswa (nim, kd_mk, kd_ds, semester, nilai)
 
 -Jalankan script DDL tersebut pada DBMS MySQL.
 
-*Langkah-langkahnya :*
+## *Langkah-langkahnya :*
 
-*1. Buat dulu script untuk table Mahasiswa :*
+## *1. Buat dulu script untuk table Mahasiswa :*
 
 
-'create table Mahasiswa (
+```
+create table Mahasiswa (
     nim varchar(10) PRIMARY KEY,
     
     nama varchar(25) NOT NULL,
@@ -51,5 +50,6 @@ KRSMahasiswa (nim, kd_mk, kd_ds, semester, nilai)
     
     FOREIGN KEY (kd_ds) REFERENCES Dosen(kd_ds)
     
-    );'
+    );
+```
 
