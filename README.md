@@ -70,6 +70,7 @@ create table Dosen (
 ```
 ![ss tgs 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/7e8e5914-fe19-46a4-a039-b853eff81aef)
 ## Tampilkan tabel :
+`desc Dosen;`
 ![ss tgs 2 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/07b5ddeb-ff4b-4411-8238-c8de753f21f1)
 
 ## *3. Buat script untuk Mata kuliah :*
