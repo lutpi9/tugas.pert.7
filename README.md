@@ -52,7 +52,8 @@ create table Mahasiswa (
     
     );
 ```
-![ss tgs prktkm 6](https://github.com/lutpi9/tugas.pert.7/assets/147919251/577c0566-8337-4a1a-8208-0b0da47017fa)
+![ss tgs 1](https://github.com/lutpi9/tugas.pert.7/assets/147919251/3fbefab1-1eda-4d91-81ca-a73e2e626451)
+
 ## Tampilkan hasil table :
 
 ```
