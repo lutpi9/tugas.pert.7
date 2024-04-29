@@ -1,4 +1,4 @@
-```python
+
 
 ##profil
 | Variable       |    DATA DIRI         |
