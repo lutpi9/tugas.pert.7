@@ -28,8 +28,8 @@ KRSMahasiswa (nim, kd_mk, kd_ds, semester, nilai)'
 
 *1. Buat dulu script untuk table Mahasiswa :*
 
-'create table Mahasiswa (
 
+'create table Mahasiswa (
     nim varchar(10) PRIMARY KEY,
     
     nama varchar(25) NOT NULL,
