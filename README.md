@@ -9,9 +9,11 @@
 | Mata Kuliah    |Basis data            |
 
 #Soal Latihan Praktikum
+
 ##Data Model Mapping
 
 ```python
+
 `Mahasiswa (nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
 Dosen (kd_ds, nama)
 Matakuliah (kd_mk, nama, sks)
