@@ -1,3 +1,5 @@
+```python
+
 ##profil
 | Variable       |    DATA DIRI         |
 | ---------------| ----------------     |
@@ -10,7 +12,7 @@
 
 ##Data Model Mapping
 
-`Mahasiswa (nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
+`Mahasiswa (nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)`
 Dosen (kd_ds, nama)
 Matakuliah (kd_mk, nama, sks)
 JadwalMengajar (kd_ds, kd_mk, hari, jam, ruang)
