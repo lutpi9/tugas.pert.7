@@ -52,4 +52,13 @@ create table Mahasiswa (
     
     );
 ```
+![ss tgs prktkm 6](https://github.com/lutpi9/tugas.pert.7/assets/147919251/577c0566-8337-4a1a-8208-0b0da47017fa)
+## Tampilkan hasil table :
+
+```
+desc Mahasiswa;
+```
+![ss tgs 1 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/364a1ccc-5c38-4cc2-9015-9f89f19426a2)
+
+
 
