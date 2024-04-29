@@ -216,6 +216,9 @@ BETWEEN: Hanya memilih data dalam rentang yang ditentukan.
 >= dan <=: Memilih data pada atau dalam rentang yang ditentukan.
 
 
+terimakasih pak
+
+
 
 
 
