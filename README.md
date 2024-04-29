@@ -2,7 +2,7 @@
 
 | Variable       |    DATA DIRI         |
 | ---------------| ----------------     |
-| Nama           | Lutpiah Ainu Shiddik |                                     
+| Nama           | Lutpiah Ainus Shiddik|                                     
 | NIM            | 312310474            |
 | Kelas          | TI.23.A.5            |
 | Mata Kuliah    |Basis data            |
@@ -60,6 +60,19 @@ create table Mahasiswa (
 desc Mahasiswa;
 ```
 ![ss tgs 1 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/364a1ccc-5c38-4cc2-9015-9f89f19426a2)
+
+## *2. Buat script untuk table Dosen :*
+```
+create table Dosen (
+    kd_ds varchar(10) PRIMARY KEY,
+    nama varchar(35) NOT NULL
+    );
+```
+![ss tgs 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/7e8e5914-fe19-46a4-a039-b853eff81aef)
+## Tampilkan tabel :
+![ss tgs 2 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/07b5ddeb-ff4b-4411-8238-c8de753f21f1)
+
+
 
 
 
