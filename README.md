@@ -84,6 +84,8 @@ create table Matakuliah (
 ```
 ![ss tgs 3](https://github.com/lutpi9/tugas.pert.7/assets/147919251/37700698-4674-4329-b842-80e67bb1737c)
 ## Tampilkan table :
+`desc Matakuliah;`
+
 ![ss tgs 3 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/bbf180aa-7d8d-4e51-84f7-ceef209a4abc)
 
 ## *4. Buat script untuk jadwal mengajar :*
