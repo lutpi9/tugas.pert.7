@@ -83,6 +83,25 @@ create table Matakuliah (
 ![ss tgs 3](https://github.com/lutpi9/tugas.pert.7/assets/147919251/37700698-4674-4329-b842-80e67bb1737c)
 ## Tampilkan table :
 ![ss tgs 3 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/bbf180aa-7d8d-4e51-84f7-ceef209a4abc)
+## *4. Buat script untuk jadwal mengajar :*
+```
+create table JadwalMengajar (
+    kd_ds varchar(10) NOT NULL,
+    kd_mk varchar(10) NOT NULL,
+    hari ENUM('Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu', 'Minggu') NOT NULL,
+    jam TIME NOT NULL,
+    ruang varchar(555) NOT NULL,
+    PRIMARY KEY (kd_ds, kd_mk, hari, jam),
+    FOREIGN KEY (kd_ds) REFERENCES Dosen(kd_ds),
+    FOREIGN KEY (kd_mk) REFERENCES Matakuliah(kd_mk)
+    );
+
+```
+![ss tgs 4](https://github.com/lutpi9/tugas.pert.7/assets/147919251/2c726fa0-7056-469b-b51b-1b7befeb81ab)
+## Tampilkan table :
+`desc JadwalMengajar;`
+
+
 
 
 
