@@ -215,6 +215,13 @@ Perbedaan utama:
  ##  BETWEEN: Hanya memilih data dalam rentang yang ditentukan.
 ##   >= dan <=: Memilih data pada atau dalam rentang yang ditentukan.
 
+## berikan kesimpulan anda
+DML (Data Manipulation Language) dan SQL (Structured Query Language) memiliki keterkaitan erat dalam pengelolaan data di database
+perintah DML memungkinkan pengguna untuk melakukan berbagai operasi pada data Mengubah data, Memasukkan data baru
+dan operator SQL merupakan elemen penting dalam mengelola data dalam database
+Kombinasi perintah DML dan operator SQL memungkinkan pengguna untuk melakukan operasi data yang kompleks dan akurat dalam database.
+Operator dan fungsi SQL lainnya dapat dikombinasikan dengan perintah DML untuk menyaring, mengurutkan, dan memanipulasi data yang diambil dari tabel (misalnya, pemfilteran dengan operator BETWEEN atau LIKE dalam query SELECT).
+
 
 terimakasih pak
 
