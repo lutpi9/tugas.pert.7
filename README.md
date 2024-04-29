@@ -105,6 +105,7 @@ create table JadwalMengajar (
 ![ss tgs 4](https://github.com/lutpi9/tugas.pert.7/assets/147919251/2c726fa0-7056-469b-b51b-1b7befeb81ab)
 ## Tampilkan table :
 `desc JadwalMengajar;`
+
 ![ss tgs 4 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/35adb986-ef53-4186-a6ea-c21fbad046a5)
 
 ## *5. Buat script untuk KRSMahasiswa :*
@@ -124,6 +125,7 @@ CREATE TABLE KRSMahasiswa (
 ![sss tgs 5](https://github.com/lutpi9/tugas.pert.7/assets/147919251/0098fbb7-72db-48be-ab45-7f3dba5669f9)
 ## Tampilkan table :
 `desc KRSMahasiswa;`
+
 ![ss tgs 5 2](https://github.com/lutpi9/tugas.pert.7/assets/147919251/9561722c-4e97-4412-a242-12f134f91a78)
 
 
